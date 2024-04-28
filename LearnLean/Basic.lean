@@ -2,6 +2,8 @@ import Init.Data.Nat
 import Init.Data.Bool
 import Mathlib.Data.Real.Basic
 
+#check Nat.succ 5
+
 
 /- Define some constants. -/
 
